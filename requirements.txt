@@ -1,0 +1,9 @@
+Normal Requirements
+
+1. sklearn
+2. matplotlib
+3. numpy
+
+Special Requirements 
+
+1. seaborn - pip install seaborn
